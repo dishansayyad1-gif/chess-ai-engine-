@@ -1,4 +1,3 @@
-# chess-ai-engine-
 # Chess Game
 
 A complete, two-player chess application for your desktop, written in

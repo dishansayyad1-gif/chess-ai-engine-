@@ -1,0 +1,4 @@
+python-chess>=1.0
+# Optional: renders high-quality antialiased piece images.
+# Without it the app falls back to plain text glyphs.
+Pillow>=9.0
